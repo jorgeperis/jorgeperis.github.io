@@ -21,9 +21,9 @@ body {
 }
 
 @media only screen and (max-width: 480px) {
-    .right {
-        flex: 0;
-    }
+  .right {
+    flex: 0;
+  }
 }
 
 .right {
