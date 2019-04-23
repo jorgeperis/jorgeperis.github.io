@@ -45,31 +45,39 @@ body {
   opacity: 0.9;
 }
 
-.content .name {
+.content .name-content {
+  flex: 0.75;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.content .email-and-social {
+  flex: 0.25;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+
+.name-content .name {
   font-family: 'Bungee';
   font-size: 4em;
 }
 
-.content .description {
+.name-content .description {
   font-size: 2em;
 }
 
-.content .email {
+.email-and-social .email {
   font-size: 1.5em;
 }
 
-.social {
+.email-and-social .social {
   display: flex;
+  margin: 1rem 2rem;
   justify-content: center;
 }
 
-.content .last {
-  margin-bottom: 10%;
-}
-
-.social {
-  margin: 1rem 2rem;
-}
 .social div {
   padding-right: 1rem;
   background-repeat: no-repeat;
@@ -90,13 +98,13 @@ body {
 }
 
 @media only screen and (max-width: 480px) {
-  .content .name {
+  .name-content .name {
     font-size: 2.5em;
   }
-  .content .description {
+  .name-content .description {
     font-size: 1em;
   }
-  .content .email {
+  .email-and-social .email {
     margin-top: 2em;
     font-size: 1em;
   }
