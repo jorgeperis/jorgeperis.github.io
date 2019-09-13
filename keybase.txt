@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jorgeperis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jorgeperis.net
+  * I am jorgeperis (https://keybase.io/jorgeperis) on keybase.
+  * I have a public key ASAMGnppR92ZVTVc-cT59kFsNCcLzcVeRpoSlnpjxKhptwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012061c8afb120c7d5bffabbda0b6a8c7fabdab183d7cdac09ab39e88aa5f20073800a",
+      "host": "keybase.io",
+      "kid": "01200c1a7a6947dd9955355cf9c4f9f6416c34270bcdc55e469a12967a63c4a869b70a",
+      "uid": "d8dd505aa7daf1131e2580191b691319",
+      "username": "jorgeperis"
+    },
+    "merkle_root": {
+      "ctime": 1568354614,
+      "hash": "65711e101ae65fd8b7e65a7341058679ebd63a0ae01f5b4e77021dead63b5b809fd3a98736734593eb1b6ce4310815ffaf2011d298ccdbd88e6a00fdffe5d079",
+      "hash_meta": "e16b5a4154ed807e7a102736ec946f07f80bcd372b722faa351e6d92fe5a5d4a",
+      "seqno": 7105170
+    },
+    "service": {
+      "entropy": "EkKmOfxGNKH0+03IbIh5UCzw",
+      "hostname": "jorgeperis.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568354624,
+  "expire_in": 504576000,
+  "prev": "d0a244edf0fbb1d9861956fc50514b4649a2fe510dd5dddb03acb5f279ed45d3",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDBp6aUfdmVU1XPnE+fZBbDQnC83FXkaaEpZ6Y8SoabcKp3BheWxvYWTESpcCG8Qg0KJE7fD7sdmGGVb8UFFLRkmi/lEN1d3bA6y18nntRdPEIGgvY/EAx1KqsT0/yvW1RozpJ6RrEdP+YtUuBlMwd9GCAgHCo3NpZ8RAajhKWCSTHA+6Ht4YAh1WlTJRQJC9SpKroJKUSC6UQQZEAWjr2mrO0Ct9mtddQNTZ8h+ixLiDfVxBIbqX34YTAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICHnRS9GTxXbVEEUs0d3qchgr2xfD5KN4CRuxOtik93Co3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jorgeperis
+
+==================================================================
