@@ -2,7 +2,7 @@
   "name": "peris.me",
   "version": "1.0.0",
   "scripts": {
-    "css-build": "node-sass --omit-source-map-url sass/mystyles.scss css/mystyles.css",
+    "css-build": "node-sass --omit-source-map-url sass/mystyles.scss css/bulma.css",
     "css-watch": "npm run css-build -- --watch",
     "start": "npm run css-watch"
   },
